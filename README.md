@@ -1,4 +1,4 @@
-[![Lattes](https://img.shields.io/badge/author-jplavorr-black.svg)](http://lattes.cnpq.br/6775602403229126) [![author](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/joão-pedro-lavor-65162312b/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jplavorr)
+[![Lattes](https://img.shields.io/badge/author-jplavorr-black.svg)](http://lattes.cnpq.br/6775602403229126)[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jplavorr)
 
 
 # João Pedro Lavor
@@ -13,6 +13,7 @@ I am a student about to graduate in mathematics (UFPE) with an interest in the f
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joão-pedro-lavor-65162312b/)
 * [Medium](https://jplavorr.medium.com/)
+* [Lattes](http://lattes.cnpq.br/6775602403229126)
 
 
 ## Projetos:
