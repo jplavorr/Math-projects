@@ -22,9 +22,9 @@ I am a student about to graduate in mathematics (UFPE) with an interest in the f
 
 ## Projetos:
 
-* **** 
-* **** 
-* **** 
+* **Problema do Balde:** 
+* **Integração Numérica:** 
+* **Encontrando Raízes de Funções:** 
 * **** 
 * **** 
 * **** 
