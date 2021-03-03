@@ -1,5 +1,9 @@
 [![Lattes](https://img.shields.io/badge/author-jplavorr-black.svg)](http://lattes.cnpq.br/6775602403229126)[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jplavorr)
 
+<p align="center">
+  <img src= "João Pedro Lavor-1.jpg" >
+</p>
+
 
 # João Pedro Lavor
 <sub>*Math student* at [UFPE(Dmat)](https://www.ufpe.br/dmat)</sub>
