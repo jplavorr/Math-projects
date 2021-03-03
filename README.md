@@ -24,7 +24,7 @@ I am a student about to graduate in mathematics (UFPE) with an interest in the f
 
 * **Problema do Balde:** https://bit.ly/3kHAD4Z
 * **Integração Numérica:** https://bit.ly/3uREC3t
-* **Encontrando Raízes de Funções:** 
+* **Encontrando Raízes de Funções:** https://bit.ly/3sJUbsj
 * **** 
 * **** 
 * **** 
